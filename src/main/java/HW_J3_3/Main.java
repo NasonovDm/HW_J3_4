@@ -1,6 +1,5 @@
 package HW_J3_3;
 
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
